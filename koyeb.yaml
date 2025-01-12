@@ -3,7 +3,7 @@ type: app
 regions:
   - fra # Frankfurt (choose your preferred region)
 ports:
-  - 8080:8080
+  - 8000:8000
 build:
   type: node
   files:
